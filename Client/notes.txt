@@ -1,0 +1,4 @@
+ <img className={styles.blueBlob} src="https://secure.meetupstatic.com/next/images/blobs/green-blob.svg" alt="img"/>
+            <img className={styles.yellowBlob} src="https://secure.meetupstatic.com/next/images/blobs/yellow-blob.svg" alt="img"/>
+            <img className={styles.redBlob} src="https://secure.meetupstatic.com/next/images/blobs/red-blob.svg" alt="img" />
+---------------LaayoutPage.jsx----------------------------------

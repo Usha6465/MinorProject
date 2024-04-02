@@ -1,0 +1,188 @@
+.linkDiv,
+.linkDiv2 {
+  display: flex;
+  align-items: center;
+}
+.linkDiv div {
+  padding: 0px 6px;
+}
+.linkDiv2 div {
+  padding: 0px 13px;
+}
+
+.blueBlob {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: -1;
+}
+
+.yellowBlob {
+  position: absolute;
+  top: 240px;
+  left: 150px;
+  z-index: -1;
+}
+.redBlob {
+  position: absolute;
+  top: 680px;
+  left: 15px;
+  z-index: -1;
+}
+
+.navComp {
+  display: flex;
+  justify-content: space-between;
+  padding: 14px;
+}
+
+.sec1 {
+  margin-top: 90px;
+}
+
+.sec1Grid {
+  display: grid;
+  grid-template-columns: 60% 37%;
+  gap: 10px;
+}
+.sec1sec1 {
+  margin-left: 50px;
+}
+.sec1h1 {
+  font-size: 48px;
+  width: 77%;
+  line-height: 1;
+  text-align: left;
+}
+
+.sec1p {
+  font-size: 16px;
+  margin-top: -20px;
+  text-align: left;
+  width: 72%;
+}
+
+.logincont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.loginimgcont {
+  /* margin-bottom: 12px; */
+  margin-top: 20px;
+}
+
+.loginimgcont img {
+  width: 48px;
+  height: 48px;
+}
+
+.loginh1 {
+  margin: 0;
+}
+
+.loginhr {
+  display: flex;
+  margin-top: 15px;
+}
+
+.loginhr hr {
+  width: 150px;
+  padding: 0px 10px;
+}
+
+.loginsocial {
+  display: flex;
+  align-items: center;
+  border: 1px solid #e6e6e6;
+  padding: 10px;
+  justify-content: space-evenly;
+  font-size: 16px;
+  margin-top: 20px;
+  margin-bottom: 7px;
+}
+
+.inputlabel {
+  text-align: left;
+}
+
+.sec1img {
+  max-width: 100%;
+}
+
+@media screen and (max-width: 1250px) {
+  .yellowBlob {
+    display: none;
+  }
+  .blueBlob {
+    height: 300px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .sec1Grid {
+    grid-template-columns: 100%;
+  }
+}
+
+.comp1 img {
+  width: 380px;
+  height: 200px;
+  padding: 0;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.7);
+  border-radius: 10px;
+  margin-bottom: 1.5rem;
+}
+
+.comp1link {
+  color: #0f3439;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.adiv {
+  margin-left: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tealcont {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  flex-wrap: wrap;
+}
+
+.emailh2 {
+  padding: 10px;
+}
+
+.signp {
+  text-align: center;
+}
+
+.grouplink {
+  color: #008294;
+  text-decoration: none;
+  font-weight: 600;
+  display: flex;
+  align-self: center;
+  margin-top: 21px;
+}
+.nextSec {
+  display: grid;
+  grid-template-columns: 50% 46%;
+  gap: 5px;
+  margin: 100px 10px;
+}
+
+.menulink {
+  text-decoration: none;
+  color: black;
+}
+
+.miniature {
+  border: 1px solid pink;
+  background-color: teal;
+}

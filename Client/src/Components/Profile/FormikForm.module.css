@@ -1,0 +1,47 @@
+.formikContainer {
+  display: flex;
+  height: 300px;
+  width: 400px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background-color: #180f46;
+  padding: 30px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+  background-color: #d4ccfd;
+  margin: 2rem;
+  border-radius: 10px;
+  margin-top: -4rem;
+}
+
+.Xone {
+  margin-top: -0rem;
+  font-size: 40px;
+  /* display: flex; */
+  color: "#b7a9fd";
+  text-align: center;
+  color: white;
+}
+.xOne {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+}
+/* .formikContainer .mainLabel {
+  color: black;
+  font-size: 25px;
+  margin: 10px;
+
+} */
+.formikContainer .sideLabel {
+  color: black;
+  font-size: 20px;
+}
+/* .backgrounfLEX {
+  background-color: #b4a6f9;
+} */
+/* .editForm {
+  
+} */

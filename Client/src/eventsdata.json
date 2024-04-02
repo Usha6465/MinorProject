@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "img_url": "https://secure-content.meetupstatic.com/images/classic-events/499473240/333x188.webp",
+    "date": "1/19/2023",
+    "event_name": "Flutter Kathmandu Monthly - January",
+    "event_place": "Delhi",
+    "attendees": 24,
+    "event_mode": "online",
+    "category": "Technology",
+    "public_details": "Let us meet online and get to know each other a bit and share some music choicws, favourite songs, artists and maybe sing with each other.Event link will be added later.",
+    "presentation_details": "Call for Presentation: Coming soon",
+    "workshop_details": "We are looking for Intermediate level Flutter content it can be a 20 minutes presentation or a 45 minutes hands on workshop code.",
+    "hosted_by": "Roshan Lohani and Ambika Dulal"
+  },
+  {
+    "id": 2,
+    "img_url": "https://secure-content.meetupstatic.com/images/classic-events/501197289/333x188.webp",
+    "date": "11/25/2022",
+    "event_name": "Mobile Flock - Chapter 3 [Online]",
+    "event_place": "Noida",
+    "attendees": 102,
+    "event_mode": "In-person",
+    "category": "Career & Business",
+    "public_details": "Warm welcome from Nepal Cloud Professional's community! We invite you to join us at Azure Saturday- 2021. Due to covid situation, we are limiting this meetup event to digital only.",
+    "presentation_details": "Call for Presentation: Coming soon",
+    "workshop_details": "Azure Saturday is a free community-focused Azure event dedicated to educating and engaging members of the local technical community. Azure Saturday draws upon the expertise of Azure IT professionals, developers and solutions architects who come together to share their real-world experiences, lessons learned, best practices, and general knowledge with other like-minded individuals.      ",
+    "hosted_by": "Damodar Lohani and Ambika Dulal"
+  },
+  {
+    "id": 3,
+    "img_url": "https://secure-content.meetupstatic.com/images/classic-events/494314279/333x188.webp",
+    "date": "8/11/2022",
+    "event_name": "FREE Online Event for Learning Communication, Leadership & Networking",
+    "event_place": "Noida",
+    "attendees": 3,
+    "event_mode": "online",
+    "category": "Community & Environment",
+    "public_details": "Hey everyone, we are glad to announce our monthly meetup for January. I hope you are all excited as we are.",
+    "presentation_details": "Call for Presentation: Coming soon",
+    "workshop_details": "What determines a good fate of happiness, or a bad fate of misfortune? We will have a Skype session to learn how Buddhism answers to these questions.Learn the wisdom of Buddha and lead a life of everlasting peace and joy",
+    "hosted_by": "Roshan Lohani and Ambika Dulal"
+  },
+  {
+    "id": 4,
+    "img_url": "https://secure-content.meetupstatic.com/images/classic-events/501229671/333x188.webp",
+    "date": "12/11/2022",
+    "event_name": "AWS Lambda",
+    "event_place": "Bengaluru",
+    "attendees": 4,
+    "event_mode": "online",
+    "category": "Dancing",
+    "public_details": "Run code without provisioning or managing infrastructure. Simply write and upload code as a .zip file or container image.",
+    "presentation_details": "Automatically respond to code execution requests at any scale, from a dozen events per day to hundreds of thousands per second.",
+    "workshop_details": "Save costs by paying only for the compute time you use—by per-millisecond—instead of provisioning infrastructure upfront for peak capacity.",
+    "hosted_by": "Roshan Lohani and Ambika Dulal"
+  },
+  {
+    "id": 5,
+    "img_url": "https://secure-content.meetupstatic.com/images/classic-events/500613123/333x188.webp",
+    "date": "11/27/2022",
+    "event_name": "Data Engineering with Google Cloud A Masterclass by Dan Sullivan",
+    "event_place": "Delhi",
+    "attendees": 78,
+    "event_mode": "online",
+    "category": "Movements & Politics",
+    "public_details": "lets you run code for virtually any type of application or backend service without provisioning or managing servers. You can trigger Lambda from over 200 AWS services and software as a service (SaaS) applications, and only pay for what you use.",
+    "presentation_details": "Call for Presentation: Coming soon",
+    "workshop_details": "Optimize code execution time and performance with the right function memory size. Respond to high demand in double-digit milliseconds with Provisioned Concurrency code.",
+    "hosted_by": "Roshan Lohani and Ambika Dulal"
+  }
+]

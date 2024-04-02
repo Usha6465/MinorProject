@@ -1,0 +1,55 @@
+.xOneTwo {
+  margin: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}
+.buttonOneTwo {
+  color: white;
+  background-color: black;
+  height: 50px;
+  width: 33.3%;
+  border-radius: 10px;
+  border: 1px solid rgb(81, 80, 80);
+  font-size: large;
+  cursor: pointer;
+}
+
+.upperkjhasc {
+  height: 300px;
+  width: 70%;
+  border-radius: 10px;
+  background: linear-gradient(to left, rgb(117, 47, 85), rgb(74, 74, 74));
+  box-shadow: 0 0 40px 0 rgba(0, 0, 0, 1);
+}
+.jshifudsafb {
+  display: flex;
+}
+.sakdjbasfas {
+  border: none;
+  background: white;
+  border-radius: 50%;
+  transform: translate(95px, 45px);
+}
+
+.xButtonOne {
+  color: white;
+  background-color: black;
+  height: 50px;
+  width: 150px;
+  border-radius: 10px;
+  border: 1px solid rgb(81, 80, 80);
+  font-size: large;
+  margin-right: 5rem;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.maxFlex {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
+
+

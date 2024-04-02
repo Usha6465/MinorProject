@@ -1,0 +1,15 @@
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-color: whitesmoke;
+}
+
+.nextSec{
+    display: grid;
+    grid-template-columns:50% 46% ;
+    gap: 5px;
+    margin: 100px 10px;
+    
+    }
+
